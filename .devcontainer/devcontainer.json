@@ -17,8 +17,9 @@
     },
     "vscode": {
       "extensions": [
-        "rebornix.Ruby"
-      ]
+		"rebornix.Ruby",
+		"bianxianyang.htmlplay"
+	]
     }
   },
   "portsAttributes": {
